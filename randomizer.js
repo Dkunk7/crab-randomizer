@@ -1,8 +1,8 @@
-const weaponList = ["Auto Rifle", "Dual Shotguns", "Dual Pistols", "Auto Shotgun", "Burst Pistol", "Sniper", "Flamethrower", "Seagle", "Laser Cannons", "Crossbow", "Orb Launcher", "Rocket Launcher", "Minigun", "Blade Launcher", "Cluster Launcher", "Arcane Wand", "Marksman Rifle", "Ice Staff"];
+const weaponList = ["Auto Rifle", "Dual Shotguns", "Dual Pistols", "Auto Shotgun", "Burst Pistol", "Sniper", "Flamethrower", "Seagle", "Laser Cannons", "Crossbow", "Orb Launcher", "Rocket Launcher", "Minigun", "Blade Launcher", "Cluster Launcher", "Arcane Wand", "Marksman Rifle", "Ice Staff", "Lightning Scepter"];
 
-const abilityList = ["Grenade", "Grappling Hook", "Black Hole", "Laser Beam", "Ice Blast", "Electro Globe"];
+const abilityList = ["Grenade", "Grappling Hook", "Black Hole", "Laser Beam", "Ice Blast", "Electro Globe", "Air Strike"];
 
-const meleeList = ["Claw", "Dagger", "Hammer", "Pickaxe"];
+const meleeList = ["Claw", "Dagger", "Hammer", "Pickaxe", "Katana"];
 
 const init = () => {
     let container = document.querySelector("#content-container");
